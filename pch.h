@@ -12,5 +12,7 @@
 #include "map"
 #include "vector"
 #include "string"
+#include "typeinfo"
+#include "any"
 
 #endif //PCH_H
