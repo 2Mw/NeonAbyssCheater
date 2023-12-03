@@ -2,6 +2,8 @@
 
 This is a Cheater for Neon Abyss.
 
+Download Executable in [here](https://github.com/2Mw/NeonAbyssCheater/releases)
+
 ## Functions
 
 ![image-20231203171713728](README.assets/image-20231203171713728.png)
